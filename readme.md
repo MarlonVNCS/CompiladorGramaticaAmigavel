@@ -17,7 +17,8 @@ A gramática foi criada para a disciplina de Linguagens Formais e Autômatos no 
 O compilador foi desenvolvido em Java e contempla as etapas de análise léxica, sintática e semântica.
 Ele compila a gramática criada por nós e gera código Python como saída.
 
-## Observação: O arquivo principal do compilador é o Semantico.java, que contém a implementação das etapas de análise léxica, sintática, semântica e a geração do código de saída.
+## Observação:
+O arquivo principal do compilador é o Semantico.java, que contém a implementação das etapas de análise léxica, sintática, semântica e a geração do código de saída.
 
 Os demais arquivos (ErroLexicoException.java, ErroSintaticoException.java, ErroSemanticoException.java, PilhaSemantica.java e NodoPilhaSemantica.java) são classes de apoio necessárias para a execução do compilador e não receberam modificações durante o desenvolvimento deste trabalho.
 
