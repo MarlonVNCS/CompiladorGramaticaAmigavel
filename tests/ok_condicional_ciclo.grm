@@ -1,0 +1,17 @@
+Inicio:
+
+num: n = 3
+
+sera_que(n maior igual 3){
+escrever(n)
+}e_se(n menor 3){
+escrever(0)
+}se_nao{
+escrever(1)
+}
+
+ciclo(num:i de 0 ate n){
+escrever(i)
+}
+
+:Acabou

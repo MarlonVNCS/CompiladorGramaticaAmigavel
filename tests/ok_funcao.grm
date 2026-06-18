@@ -1,0 +1,13 @@
+Inicio:
+
+faz num:soma(num: n1, num: n2){
+num: resultado = n1 + n2
+retorna(resultado)
+}
+
+num: x = 3
+num: y = 4
+num: z = vem soma(x, y)
+escrever(z)
+
+:Acabou

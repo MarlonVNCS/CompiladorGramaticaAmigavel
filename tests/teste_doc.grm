@@ -1,0 +1,26 @@
+Inicio:
+
+faz num:soma(num : n1, num : n2){
+num : resultado = n1 + n2
+retorna(resultado)
+}
+
+num : n1 = 10
+num : n2 = 5
+num : n3 = vem soma(n1, n2)
+
+sera_que(n3 maior igual 10){
+escrever("Maior ou igual a 10")
+}e_se(n3 menor 5){
+escrever("Menor que 5")
+}se_nao{
+escrever("Nenhum")
+}
+
+escrever("Todos os números até {n3}")
+
+ciclo(num:i de 0 ate n3){
+escrever(i)
+}
+
+:Acabou

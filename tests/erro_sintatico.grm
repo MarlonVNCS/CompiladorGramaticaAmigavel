@@ -1,0 +1,7 @@
+Inicio:
+
+num: a = 10
+sera_que(a maior 5){
+escrever(a)
+
+:Acabou

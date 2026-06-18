@@ -1,0 +1,6 @@
+Inicio:
+
+palavra: msg = "ola"
+escrever(msg)
+
+:Acabou
