@@ -2,6 +2,7 @@
 
 **Júlia Nathalie Schmitz**  
 **Marlon Vinicius Gonçalves**  
+**Renan Lapazini**  
 **Gramática Amigável**  
 **Compiladores**  
 **Ciência da Computação**  
